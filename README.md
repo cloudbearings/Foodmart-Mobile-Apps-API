@@ -1,0 +1,2 @@
+# Foodmart-Mobile-Apps-API
+A Webservice is built for mobile apps . Online Payment Gateway is also integrated with this version . This online payment is done by making a webview and then load that view via android app. 
